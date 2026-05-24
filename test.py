@@ -1,4 +1,4 @@
 def hello():
-	print("Hello, Suyeon!!!")
+	print("Hello from branch!")
 
 hello()
