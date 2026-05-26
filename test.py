@@ -1,4 +1,4 @@
 def hello():
-	print("Back to main branch!")
+	print("merged version")
 
 hello()
